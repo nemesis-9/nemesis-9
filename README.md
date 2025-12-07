@@ -69,10 +69,6 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nemesis-9/nemesis-9/output/snake.svg" alt="github-snake" />
-</p>
-
 ---
 
 <h2 align="center">📊 My GitHub Activity</h2>
