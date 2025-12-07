@@ -99,15 +99,6 @@
 
 ---
 
-<h2 align="center">✍️ Latest Activity & Coding Hours</h2>
-
-<p align="center">
-  <a href="https://github.com/nemesis-9">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productiveTime?username=nemesis-9&theme=dracula" alt="Productive Time Card"/>
-  </a>
-</p>
-
-<br>
 <div align="center">
   Made with ❤️ by an AI, for a Student Developer.
 </div>
