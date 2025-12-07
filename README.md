@@ -78,7 +78,7 @@
 <h2 align="center">📊 My GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nemesis-9&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="nemesis-9's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nemesis-9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true"/>
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemesis-9&theme=radical&hide_border=true&layout=compact&langs_count=10" alt="nemesis-9's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemesis-9&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&count_private=true" />
 </p>
 
 ---
