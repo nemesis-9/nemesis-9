@@ -1,9 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm **Nemesis**
-### 🚀 Passionate Computer Science Student | Future AI Engineer
+<h1 align="center">
+  <img src="https://media.giphy.com/media/HV0E4oFhU9Q1G/giphy.gif" width="30">
+  Hi, I'm <b>Nemesis</b>
+  <img src="https://media.giphy.com/media/HV0E4oFhU9Q1G/giphy.gif" width="30">
+</h1>
 
-<img src="https://tenor.com/bCNex.gif" width="400"/>
+<h3> 🚀 Passionate Computer Science Student | Future AI Engineer </h3>
+
 
 ---
 
@@ -74,15 +78,15 @@
 <h2 align="center">📊 My GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nemesis-9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="nemesis-9's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nemesis-9&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="nemesis-9's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nemesis-9&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="nemesis-9's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nemesis-9&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="nemesis-9's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemesis-9&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="nemesis-9's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemesis-9&theme=radical&hide_border=true&layout=compact&langs_count=10" alt="nemesis-9's Top Languages" />
 </p>
 
 ---
