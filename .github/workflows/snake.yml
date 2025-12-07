@@ -10,19 +10,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: platane/snk@master
+      
+      # Use the latest version of the snake generator
+      - uses: platane/snk@v2 
         id: snake-gif
         with:
-          github_user_name: nemesis-9 # Replace if username is different
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v2
+          github_user_name: nemesis-9 # **Ensure this is your correct GitHub username**
+          
+          # Use the correct parameter for SVG output
+          svg_out_path: dist/github-snake.svg 
+          
+          # Optional: You can set a time zone if needed
+          # time_zone: 'America/New_York' 
+          
+      # This step commits the generated SVG file to the 'output' branch
+      - uses: crazy-max/ghaction-github-pages@v3 
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: dist 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
