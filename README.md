@@ -71,19 +71,23 @@
 
 ---
 
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/nemesis-9/nemesis-9/output/github-snake.svg" alt="github-snake" />
+</p> -->
+
 <h2 align="center">📊 My GitHub Activity</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nemesis-9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nemesis-9&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="nemesis-9's GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemesis-9&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&count_private=true" />
-</p>
+</p> -->
 
 ---
 
